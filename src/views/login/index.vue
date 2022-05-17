@@ -11,7 +11,7 @@ export default {
     const router = useRouter();
     const toHome = () => {
       router.push({
-        name: 'myLongin',
+        name: 'home',
       });
     };
     return {

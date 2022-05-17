@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import login from './views/login/login.vue';
 import headerCardVue from './components/content/headerCard.vue';
 import './assets/font/style.css';
 </script>

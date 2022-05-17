@@ -1,9 +1,4 @@
-import { login } from '@/views/login/request';
-import {
-  createRouter,
-  createWebHistory,
-  createWebHashHistory,
-} from 'vue-router';
+import { createRouter, createWebHistory } from 'vue-router';
 
 const Home = () => import('../views/home/index.vue');
 const Login = () => import('@/views/login/index.vue');
