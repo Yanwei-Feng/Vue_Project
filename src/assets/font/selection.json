@@ -1,0 +1,206 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M1177.825 718.583c0-182.422-192.978-404.5-192.978-462.583 0-113.108-91.692-204.8-204.8-204.8s-204.8 91.692-204.8 204.8c0 57.444-194.256 280.928-194.256 462.583h796.834z",
+          "M1177.825 718.583c0-182.422-192.978-404.5-192.978-462.583 0-113.108-91.692-204.8-204.8-204.8s-204.8 91.692-204.8 204.8c0 57.444-194.256 280.928-194.256 462.583h796.834z",
+          "M626.447 819.2c0 84.831 68.769 153.6 153.6 153.6s153.6-68.769 153.6-153.6"
+        ],
+        "attrs": [
+          {},
+          {
+            "fill": "none",
+            "stroke": "rgb(231, 242, 253)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 102.4
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(231, 242, 253)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 102.4
+          }
+        ],
+        "width": 1587,
+        "isMulticolor": false,
+        "isMulticolor2": true,
+        "grid": 0,
+        "tags": ["icon2"],
+        "colorPermutations": {
+          "13045123124225312522522521": [{}, { "s": 1 }, { "s": 1 }]
+        }
+      },
+      "attrs": [
+        {},
+        {
+          "fill": "none",
+          "stroke": "rgb(231, 242, 253)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 102.4
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(231, 242, 253)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 102.4
+        }
+      ],
+      "properties": {
+        "order": 6,
+        "id": 1,
+        "name": "icon2",
+        "prevSize": 32,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M498.036 208.028l259.103 115.316v284.337c-43.58 71.019-76.049 117.472-98.13 138.702-36.579 35.169-90.371 69.418-160.952 103.311-76.148-36.596-132.202-70.975-167.691-103.774-23.257-21.494-53.361-67.6-91.433-137.309v0-285.269l259.103-115.316z",
+          "M327.723 414.103h204.8",
+          "M327.723 516.503h136.533",
+          "M665.6 504.255l138.419 100.567-52.871 162.721h-171.095l-52.871-162.721 138.419-100.567z",
+          "M665.6 598.598l48.694 35.378-18.599 57.243h-60.189l-18.599-57.243z"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "stroke": "rgb(1, 30, 45)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 68.26666666666667
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(1, 30, 45)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 68.26666666666667
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(1, 30, 45)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 68.26666666666667
+          },
+          {
+            "fill": "rgb(252, 252, 252)",
+            "stroke": "rgb(1, 30, 45)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 68.26666666666667
+          },
+          { "fill": "rgb(1, 30, 45)" }
+        ],
+        "isMulticolor": true,
+        "isMulticolor2": true,
+        "grid": 0,
+        "tags": ["icon3"],
+        "colorPermutations": {
+          "13045123124225312522522521": [
+            { "s": 0 },
+            { "s": 0 },
+            { "s": 0 },
+            { "f": 2, "s": 0 },
+            { "f": 0 }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "stroke": "rgb(1, 30, 45)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 68.26666666666667
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(1, 30, 45)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 68.26666666666667
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(1, 30, 45)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 68.26666666666667
+        },
+        {
+          "fill": "rgb(252, 252, 252)",
+          "stroke": "rgb(1, 30, 45)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 68.26666666666667
+        },
+        { "fill": "rgb(1, 30, 45)" }
+      ],
+      "properties": {
+        "order": 7,
+        "id": 0,
+        "name": "icon3",
+        "prevSize": 32,
+        "code": 59649,
+        "codes": [59649, 59650, 59651, 59652, 59653]
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 1
+    }
+  ],
+  "height": 1024,
+  "metadata": { "name": "icomoon" },
+  "preferences": {
+    "showGlyphs": true,
+    "showCodes": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "uml-",
+      "metadata": {
+        "fontFamily": "icomoon",
+        "majorVersion": 1,
+        "minorVersion": 0
+      },
+      "metrics": { "emSize": 1024, "baseline": 6.25, "whitespace": 50 },
+      "embed": false,
+      "showSelector": true,
+      "showMetrics": true,
+      "showMetadata": true,
+      "showVersion": true
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215
+    },
+    "historySize": 50
+  }
+}
